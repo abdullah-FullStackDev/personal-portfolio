@@ -72,3 +72,14 @@ li{
     border: black 1px solid;
     padding: 10px;
 }
+#ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#footer{
+    background-color: #45484B;
+    min-width: 100%;
+    text-align: center;
+}
