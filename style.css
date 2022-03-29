@@ -12,8 +12,12 @@
 body{
     font-size: 16px;
 }
+.fz-2{
+    font-size: 25px;
+}
 .fz{
     font-size: 25px;
+    font-size: 3.0em;
 }
  ul{
     display: flex;
@@ -36,7 +40,31 @@ li{
     z-index: 1;
     color: white;
 }
-.tp{
-    
+.text{
+    padding-top: 150px;
+    color: #ffffff;
 }
-
+.intro-btns{
+    margin-top: 40px;
+}
+.b{
+    background-color: green;
+    padding: 10px;
+}
+.b-2{
+    background-color: cyan;
+    padding: 10px;
+}
+.b-3{
+    padding: 10px;
+}
+.container{
+    border: 1px solid black;
+    max-width: 1080px;
+}
+.img-of-ab{
+    border-radius: 100%;
+    border: 3px solid grey;
+    margin-bottom: 40px;
+    width: 250px;
+}
