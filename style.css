@@ -1,0 +1,10 @@
+#header{
+    position: fixed;
+    background-color: #45484B;
+    min-width: 100%;
+    min-height: 60px;
+    color: white;
+}
+body{
+    font-size: 16px;
+}
