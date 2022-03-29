@@ -6,13 +6,20 @@
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-around;
 }
 body{
     font-size: 16px;
 }
- ul {  
-     display: flex;
-     align-items: center;
+ ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+ }
+li{
+    padding-left: 20px;
+   padding-top: 20px;
 }
 .main-part{
     background-image: url("https://images.unsplash.com/7/Top_view.jpg?fit=crop&fm=jpg&h=700&ixjsv=2.0.0&ixlib=rb-0.3.5&q=80&w=1375");
