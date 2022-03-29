@@ -2,9 +2,26 @@
     position: fixed;
     background-color: #45484B;
     min-width: 100%;
-    min-height: 60px;
+    max-height: 60px;
     color: white;
+    display: flex;
+    align-items: center;
 }
 body{
     font-size: 16px;
 }
+ ul {  
+     display: flex;
+     align-items: center;
+}
+.main-part{
+    background-image: url("https://images.unsplash.com/7/Top_view.jpg?fit=crop&fm=jpg&h=700&ixjsv=2.0.0&ixlib=rb-0.3.5&q=80&w=1375");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #45484B;
+    height: 100vh;
+    width: 100%;
+}
+
+
